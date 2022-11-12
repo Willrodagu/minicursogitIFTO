@@ -1,0 +1,2 @@
+# minicursogitIFTO
+learning git
